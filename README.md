@@ -14,13 +14,14 @@
 ```
 I-am-Ilhem
 -------------------------
-📚 I am a Computer science engineering student.
+📚 I am a Computer science engineer specialised in AI and Data science.
 🔭 Working on Deep Learning & Machine Learning
 💻 Learning about Computer Vision and NLP stuff 
 🌟 Main languages: Python, C
 🚩 Interested in building intelligent solutions for social good. 
 💖 In a complicated relationship with Neural Networks
-🌱 Love healthy food, gym and meditation 
+🌱 Love healthy food, gym and meditation
+
 📝 Looking always for opportunities, exchanging programs and international events
 ```
 <hr>
